@@ -10,7 +10,7 @@ The issues tracker is also tracking work items from other teams that are require
 
 Requirements from the Server WG:
 
-(Stream names in *italic* mean that the module hasn't been built with than stream name yet. It just indicates the name that will be used for this module.
+(Stream names in *italic* indicates the stream name that will be used for this module, but also that the module hasn't been built with that stream name yet)
 
 | Module | Owner | Definition | Dep report | Dist git | Stream Names | Successful build |
 |---|---|---|---|---|---|---|
